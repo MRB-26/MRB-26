@@ -1,10 +1,10 @@
-### 🎙️ | About Me<br>
-🧍‍♂️ | Nikolaï.
-<br>
+### 🎙️ | About Me<br><br>
+🧍‍♂️  | Nikolaï.
+<br><br>
 🌐 | I’m currently working on "Solaris - Project".
-<br>
+<br><br>
 💼 | Web Developer.
-<br>
+<br><br>
 🤔 | Now, I'm learning Rust.
 <br>
 
