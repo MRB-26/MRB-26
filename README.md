@@ -1,3 +1,13 @@
+### 🎙️ | About Me<br>
+🧍‍♂️ | Nikolaï.
+<br>
+🌐 | I’m currently working on "Solaris - Project".
+<br>
+💼 | Web Developer.
+<br>
+🤔 | Now, I'm learning Rust.
+<br>
+
 # 💻 | My App(dev)<br> 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
