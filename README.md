@@ -1,4 +1,4 @@
-### 🎙️ | About Me<br><br>
+### 🎙️ | About Me<br>
 🧍‍♂️  | Nikolaï.
 <br><br>
 🌐 | I’m currently working on "Solaris - Project".
