@@ -19,4 +19,4 @@
 
 # 📱 | Discord<br> 
 dm me if you have any questions : <br><br> 
-![](https://dcbadge.vercel.app/api/shield/913513680178663445?style=social?theme=discord)
+![](https://dcbadge.vercel.app/api/shield/913513680178663445?theme=discord)
