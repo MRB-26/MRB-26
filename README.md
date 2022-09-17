@@ -19,4 +19,4 @@
 
 # 📱 | Discord<br> 
 dm me if you have any questions : <br><br> 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=913513680178663445)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=913513680178663445) 
